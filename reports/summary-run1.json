@@ -1,0 +1,13 @@
+{
+  "run_id": 1,
+  "previous_run_id": null,
+  "cases": 258,
+  "triples": 1889,
+  "nodes": 630,
+  "edges": 1889,
+  "added": 258,
+  "changed": 0,
+  "removed": 0,
+  "network_requests": 14,
+  "cache_hits": 0
+}

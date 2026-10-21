@@ -1,0 +1,2293 @@
+{
+ "cases": [
+  {
+   "SagAktør": [
+    {
+     "id": 1887821,
+     "aktørid": 21449,
+     "sagid": 106155,
+     "opdateringsdato": "2026-10-19T10:18:57.98",
+     "rolleid": 6
+    },
+    {
+     "id": 1887820,
+     "aktørid": 21583,
+     "sagid": 106155,
+     "opdateringsdato": "2026-10-19T10:18:57.98",
+     "rolleid": 9
+    },
+    {
+     "id": 1887823,
+     "aktørid": 21369,
+     "sagid": 106155,
+     "opdateringsdato": "2026-10-19T10:18:57.98",
+     "rolleid": 10
+    },
+    {
+     "id": 1887819,
+     "aktørid": 21448,
+     "sagid": 106155,
+     "opdateringsdato": "2026-10-19T10:18:57.98",
+     "rolleid": 14
+    },
+    {
+     "id": 1887822,
+     "aktørid": 244,
+     "sagid": 106155,
+     "opdateringsdato": "2026-10-19T10:18:57.98",
+     "rolleid": 17
+    }
+   ],
+   "EmneordSag": [
+    {
+     "Emneord": {
+      "id": 84066,
+      "typeid": 1,
+      "emneord": "dagtilbud",
+      "opdateringsdato": "2026-10-21T11:21:03.17"
+     },
+     "id": 947119,
+     "emneordid": 84066,
+     "sagid": 106155,
+     "opdateringsdato": "2026-10-19T10:18:57.98"
+    }
+   ],
+   "SagDokument": [
+    {
+     "id": 1550672,
+     "sagid": 106155,
+     "dokumentid": 1233937,
+     "bilagsnummer": "",
+     "frigivelsesdato": "2026-10-06T00:00:00",
+     "opdateringsdato": "2026-10-06T16:05:21.0633333",
+     "rolleid": 4
+    },
+    {
+     "id": 1553479,
+     "sagid": 106155,
+     "dokumentid": 1237108,
+     "bilagsnummer": "",
+     "frigivelsesdato": "2026-10-19T00:00:00",
+     "opdateringsdato": "2026-10-19T10:17:59.18",
+     "rolleid": 4
+    }
+   ],
+   "id": 106155,
+   "typeid": 10,
+   "kategoriid": 11,
+   "statusid": 20,
+   "titel": "Vil ministeren garantere, at den milliard kroner, som regeringen har meldt ud skal afsættes til skole- og dagtilbudsområdet på finansloven for 2027, bliver øremærket, så pengene reelt fører til flere midler på skole- og dagtilbudsområdet og ikke kan anvendes til andre kommunale udgifter, herunder set i lyset af erfaringerne med tidligere midler til dagtilbudsområdet, som i nogle kommuner ikke er gået til det formål, de politisk blev præsenteret som?",
+   "titelkort": "Om at den milliard kroner, som skal afsættes til skole- og dagtilbudsområdet på finansloven for 2027, bliver øremærket.",
+   "offentlighedskode": "O",
+   "nummer": "S 40",
+   "nummerprefix": "S",
+   "nummernumerisk": "40",
+   "nummerpostfix": "",
+   "resume": "Emneord påført",
+   "afstemningskonklusion": null,
+   "periodeid": 168,
+   "afgørelsesresultatkode": null,
+   "baggrundsmateriale": null,
+   "opdateringsdato": "2026-10-19T10:18:57.98",
+   "statsbudgetsag": false,
+   "begrundelse": "Ingen.",
+   "paragrafnummer": null,
+   "paragraf": null,
+   "afgørelsesdato": null,
+   "afgørelse": null,
+   "rådsmødedato": null,
+   "lovnummer": null,
+   "lovnummerdato": null,
+   "retsinformationsurl": null,
+   "fremsatundersagid": null,
+   "deltundersagid": null
+  },
+  {
+   "SagAktør": [
+    {
+     "id": 1888117,
+     "aktørid": 46,
+     "sagid": 106329,
+     "opdateringsdato": "2026-10-19T16:25:00.6833333",
+     "rolleid": 6
+    },
+    {
+     "id": 1888116,
+     "aktørid": 21580,
+     "sagid": 106329,
+     "opdateringsdato": "2026-10-19T16:25:00.6833333",
+     "rolleid": 9
+    },
+    {
+     "id": 1888115,
+     "aktørid": 45,
+     "sagid": 106329,
+     "opdateringsdato": "2026-10-19T16:25:00.6833333",
+     "rolleid": 14
+    },
+    {
+     "id": 1888118,
+     "aktørid": 12,
+     "sagid": 106329,
+     "opdateringsdato": "2026-10-19T16:25:00.6833333",
+     "rolleid": 17
+    }
+   ],
+   "EmneordSag": [
+    {
+     "Emneord": {
+      "id": 33110,
+      "typeid": 1,
+      "emneord": "politi og våben",
+      "opdateringsdato": "2026-10-21T11:27:29.7233333"
+     },
+     "id": 947341,
+     "emneordid": 33110,
+     "sagid": 106329,
+     "opdateringsdato": "2026-10-19T16:25:00.6833333"
+    }
+   ],
+   "SagDokument": [
+    {
+     "id": 1553563,
+     "sagid": 106329,
+     "dokumentid": 1237179,
+     "bilagsnummer": "",
+     "frigivelsesdato": "2026-10-19T00:00:00",
+     "opdateringsdato": "2026-10-19T13:40:33.2533333",
+     "rolleid": 4
+    }
+   ],
+   "id": 106329,
+   "typeid": 10,
+   "kategoriid": 11,
+   "statusid": 22,
+   "titel": "Hvad er ministerens holdning til, at politiet ifølge Berlingske har slået fotografer fra Politiken og Ekstra Bladet, og mener ministeren, at en sådan magtanvendelse er forenelig med at beskytte pressefriheden?",
+   "titelkort": "Om at politiet slog mod fotografer.",
+   "offentlighedskode": "O",
+   "nummer": "S 130",
+   "nummerprefix": "S",
+   "nummernumerisk": "130",
+   "nummerpostfix": "",
+   "resume": "",
+   "afstemningskonklusion": null,
+   "periodeid": 168,
+   "afgørelsesresultatkode": null,
+   "baggrundsmateriale": null,
+   "opdateringsdato": "2026-10-19T16:25:00.683",
+   "statsbudgetsag": false,
+   "begrundelse": "Spørgeren henviser til artiklen ”Politiet slog mod fotografer fra Politiken og Ekstra Bladet: »Dybt alvorligt og uacceptabelt«” bragt i Berlingske den 18. oktober 2026.",
+   "paragrafnummer": null,
+   "paragraf": null,
+   "afgørelsesdato": null,
+   "afgørelse": null,
+   "rådsmødedato": null,
+   "lovnummer": null,
+   "lovnummerdato": null,
+   "retsinformationsurl": null,
+   "fremsatundersagid": null,
+   "deltundersagid": null
+  },
+  {
+   "SagAktør": [
+    {
+     "id": 1884735,
+     "aktørid": 18744,
+     "sagid": 71032,
+     "opdateringsdato": "2026-10-08T07:58:58.2033333",
+     "rolleid": 6
+    },
+    {
+     "id": 1884734,
+     "aktørid": 21469,
+     "sagid": 71032,
+     "opdateringsdato": "2026-10-08T07:58:58.2033333",
+     "rolleid": 11
+    },
+    {
+     "id": 1884733,
+     "aktørid": 18745,
+     "sagid": 71032,
+     "opdateringsdato": "2026-10-08T07:58:58.2033333",
+     "rolleid": 14
+    },
+    {
+     "id": 1884736,
+     "aktørid": 18725,
+     "sagid": 71032,
+     "opdateringsdato": "2026-10-08T07:58:58.2033333",
+     "rolleid": 19
+    }
+   ],
+   "EmneordSag": [
+    {
+     "Emneord": {
+      "id": 34101,
+      "typeid": 4,
+      "emneord": "Elektriske anlæg 1",
+      "opdateringsdato": "2026-10-21T10:40:10.9633333"
+     },
+     "id": 945907,
+     "emneordid": 34101,
+     "sagid": 71032,
+     "opdateringsdato": "2026-10-08T07:58:58.2033333"
+    },
+    {
+     "Emneord": {
+      "id": 34580,
+      "typeid": 4,
+      "emneord": "Elektriske anlæg 11",
+      "opdateringsdato": "2026-10-21T10:40:10.9633333"
+     },
+     "id": 945908,
+     "emneordid": 34580,
+     "sagid": 71032,
+     "opdateringsdato": "2026-10-08T07:58:58.2033333"
+    },
+    {
+     "Emneord": {
+      "id": 33466,
+      "typeid": 1,
+      "emneord": "energiforsyning",
+      "opdateringsdato": "2026-10-21T09:43:37.36"
+     },
+     "id": 945909,
+     "emneordid": 33466,
+     "sagid": 71032,
+     "opdateringsdato": "2026-10-08T07:58:58.2033333"
+    }
+   ],
+   "SagDokument": [
+    {
+     "id": 1541009,
+     "sagid": 71032,
+     "dokumentid": 1223612,
+     "bilagsnummer": "",
+     "frigivelsesdato": "2026-08-20T00:00:00",
+     "opdateringsdato": "2026-08-20T10:10:33.6333333",
+     "rolleid": 3
+    },
+    {
+     "id": 1541010,
+     "sagid": 71032,
+     "dokumentid": 1223613,
+     "bilagsnummer": "",
+     "frigivelsesdato": "2026-08-20T00:00:00",
+     "opdateringsdato": "2026-08-20T10:10:34.1933333",
+     "rolleid": 3
+    },
+    {
+     "id": 1541014,
+     "sagid": 71032,
+     "dokumentid": 1223608,
+     "bilagsnummer": "Spørgsmål 2",
+     "frigivelsesdato": "2026-08-20T00:00:00",
+     "opdateringsdato": "2026-08-20T10:30:35.3266667",
+     "rolleid": 4
+    },
+    {
+     "id": 1541015,
+     "sagid": 71032,
+     "dokumentid": 1223049,
+     "bilagsnummer": "Spørgsmål 1",
+     "frigivelsesdato": "2026-08-18T00:00:00",
+     "opdateringsdato": "2026-08-20T10:30:35.6033333",
+     "rolleid": 4
+    },
+    {
+     "id": 1541026,
+     "sagid": 71032,
+     "dokumentid": 1222996,
+     "bilagsnummer": "Bilag 1",
+     "frigivelsesdato": "2026-08-18T00:00:00",
+     "opdateringsdato": "2026-08-20T10:50:30.0233333",
+     "rolleid": 4
+    },
+    {
+     "id": 1541080,
+     "sagid": 71032,
+     "dokumentid": 1223691,
+     "bilagsnummer": "Bilag 3",
+     "frigivelsesdato": "2026-08-20T00:00:00",
+     "opdateringsdato": "2026-08-20T13:10:01.6933333",
+     "rolleid": 4
+    },
+    {
+     "id": 1541258,
+     "sagid": 71032,
+     "dokumentid": 1223633,
+     "bilagsnummer": "Bilag 2",
+     "frigivelsesdato": "2026-08-20T00:00:00",
+     "opdateringsdato": "2026-08-21T10:29:07.7166667",
+     "rolleid": 4
+    },
+    {
+     "id": 1541860,
+     "sagid": 71032,
+     "dokumentid": 1224553,
+     "bilagsnummer": "Bilag 4",
+     "frigivelsesdato": "2026-08-24T00:00:00",
+     "opdateringsdato": "2026-08-24T17:11:38.3933333",
+     "rolleid": 4
+    },
+    {
+     "id": 1541994,
+     "sagid": 71032,
+     "dokumentid": 1224687,
+     "bilagsnummer": "Spørgsmål 3",
+     "frigivelsesdato": "2026-08-25T00:00:00",
+     "opdateringsdato": "2026-08-25T13:09:10.7766667",
+     "rolleid": 4
+    },
+    {
+     "id": 1541996,
+     "sagid": 71032,
+     "dokumentid": 1224690,
+     "bilagsnummer": "Spørgsmål 4",
+     "frigivelsesdato": "2026-08-25T00:00:00",
+     "opdateringsdato": "2026-08-25T13:18:27.2066667",
+     "rolleid": 4
+    },
+    {
+     "id": 1541998,
+     "sagid": 71032,
+     "dokumentid": 1224692,
+     "bilagsnummer": "Spørgsmål 5",
+     "frigivelsesdato": "2026-08-25T00:00:00",
+     "opdateringsdato": "2026-08-25T13:18:53.4666667",
+     "rolleid": 4
+    },
+    {
+     "id": 1541999,
+     "sagid": 71032,
+     "dokumentid": 1224693,
+     "bilagsnummer": "Spørgsmål 6",
+     "frigivelsesdato": "2026-08-25T00:00:00",
+     "opdateringsdato": "2026-08-25T13:19:48.41",
+     "rolleid": 4
+    },
+    {
+     "id": 1542000,
+     "sagid": 71032,
+     "dokumentid": 1224694,
+     "bilagsnummer": "Spørgsmål 7",
+     "frigivelsesdato": "2026-08-25T00:00:00",
+     "opdateringsdato": "2026-08-25T13:20:33.4766667",
+     "rolleid": 4
+    },
+    {
+     "id": 1542001,
+     "sagid": 71032,
+     "dokumentid": 1224695,
+     "bilagsnummer": "Spørgsmål 8",
+     "frigivelsesdato": "2026-08-25T00:00:00",
+     "opdateringsdato": "2026-08-25T13:21:52.4266667",
+     "rolleid": 4
+    },
+    {
+     "id": 1542260,
+     "sagid": 71032,
+     "dokumentid": 1224835,
+     "bilagsnummer": "Spørgsmål 10",
+     "frigivelsesdato": "2026-08-26T00:00:00",
+     "opdateringsdato": "2026-08-26T09:16:14.7666667",
+     "rolleid": 4
+    },
+    {
+     "id": 1542261,
+     "sagid": 71032,
+     "dokumentid": 1224836,
+     "bilagsnummer": "Spørgsmål 11",
+     "frigivelsesdato": "2026-08-26T00:00:00",
+     "opdateringsdato": "2026-08-26T09:17:07.4533333",
+     "rolleid": 4
+    },
+    {
+     "id": 1542262,
+     "sagid": 71032,
+     "dokumentid": 1224837,
+     "bilagsnummer": "Spørgsmål 12",
+     "frigivelsesdato": "2026-08-26T00:00:00",
+     "opdateringsdato": "2026-08-26T09:17:49.0066667",
+     "rolleid": 4
+    },
+    {
+     "id": 1542540,
+     "sagid": 71032,
+     "dokumentid": 1225184,
+     "bilagsnummer": "Spørgsmål 14",
+     "frigivelsesdato": "2026-08-27T00:00:00",
+     "opdateringsdato": "2026-08-27T09:18:32.12",
+     "rolleid": 4
+    },
+    {
+     "id": 1542589,
+     "sagid": 71032,
+     "dokumentid": 1225226,
+     "bilagsnummer": "Spørgsmål 15",
+     "frigivelsesdato": "2026-08-27T00:00:00",
+     "opdateringsdato": "2026-08-27T11:35:17.8466667",
+     "rolleid": 4
+    },
+    {
+     "id": 1544096,
+     "sagid": 71032,
+     "dokumentid": 1226481,
+     "bilagsnummer": "Spørgsmål 16",
+     "frigivelsesdato": "2026-09-02T00:00:00",
+     "opdateringsdato": "2026-09-03T11:00:51.3866667",
+     "rolleid": 4
+    },
+    {
+     "id": 1544629,
+     "sagid": 71032,
+     "dokumentid": 1227384,
+     "bilagsnummer": "Spørgsmål 17",
+     "frigivelsesdato": "2026-09-07T00:00:00",
+     "opdateringsdato": "2026-09-07T14:11:08.33",
+     "rolleid": 4
+    },
+    {
+     "id": 1544631,
+     "sagid": 71032,
+     "dokumentid": 1227386,
+     "bilagsnummer": "Spørgsmål 18",
+     "frigivelsesdato": "2026-09-07T00:00:00",
+     "opdateringsdato": "2026-09-07T14:12:46.7133333",
+     "rolleid": 4
+    },
+    {
+     "id": 1544984,
+     "sagid": 71032,
+     "dokumentid": 1227741,
+     "bilagsnummer": "Spørgsmål 3",
+     "frigivelsesdato": "2026-09-08T00:00:00",
+     "opdateringsdato": "2026-09-08T16:23:15.5633333",
+     "rolleid": 4
+    },
+    {
+     "id": 1544985,
+     "sagid": 71032,
+     "dokumentid": 1227746,
+     "bilagsnummer": "Spørgsmål 4",
+     "frigivelsesdato": "2026-09-08T00:00:00",
+     "opdateringsdato": "2026-09-08T16:23:41.6933333",
+     "rolleid": 4
+    },
+    {
+     "id": 1544986,
+     "sagid": 71032,
+     "dokumentid": 1227745,
+     "bilagsnummer": "Spørgsmål 5",
+     "frigivelsesdato": "2026-09-08T00:00:00",
+     "opdateringsdato": "2026-09-08T16:24:08.24",
+     "rolleid": 4
+    },
+    {
+     "id": 1544987,
+     "sagid": 71032,
+     "dokumentid": 1227747,
+     "bilagsnummer": "Spørgsmål 8",
+     "frigivelsesdato": "2026-09-08T00:00:00",
+     "opdateringsdato": "2026-09-08T16:24:36.79",
+     "rolleid": 4
+    },
+    {
+     "id": 1544988,
+     "sagid": 71032,
+     "dokumentid": 1227744,
+     "bilagsnummer": "Spørgsmål 15",
+     "frigivelsesdato": "2026-09-08T00:00:00",
+     "opdateringsdato": "2026-09-08T16:24:50.5033333",
+     "rolleid": 4
+    },
+    {
+     "id": 1544989,
+     "sagid": 71032,
+     "dokumentid": 1227750,
+     "bilagsnummer": "Spørgsmål 16",
+     "frigivelsesdato": "2026-09-08T00:00:00",
+     "opdateringsdato": "2026-09-08T16:25:16.7233333",
+     "rolleid": 4
+    },
+    {
+     "id": 1545238,
+     "sagid": 71032,
+     "dokumentid": 1227868,
+     "bilagsnummer": "Spørgsmål 1",
+     "frigivelsesdato": "2026-09-09T00:00:00",
+     "opdateringsdato": "2026-09-09T15:32:33.2666667",
+     "rolleid": 4
+    },
+    {
+     "id": 1545278,
+     "sagid": 71032,
+     "dokumentid": 1227892,
+     "bilagsnummer": "Spørgsmål 13",
+     "frigivelsesdato": "2026-09-09T00:00:00",
+     "opdateringsdato": "2026-09-09T15:47:54.8133333",
+     "rolleid": 4
+    },
+    {
+     "id": 1545281,
+     "sagid": 71032,
+     "dokumentid": 1227867,
+     "bilagsnummer": "Spørgsmål 9",
+     "frigivelsesdato": "2026-09-09T00:00:00",
+     "opdateringsdato": "2026-09-09T15:52:03.2966667",
+     "rolleid": 4
+    },
+    {
+     "id": 1545282,
+     "sagid": 71032,
+     "dokumentid": 1227869,
+     "bilagsnummer": "Spørgsmål 10",
+     "frigivelsesdato": "2026-09-09T00:00:00",
+     "opdateringsdato": "2026-09-09T15:52:39.4266667",
+     "rolleid": 4
+    },
+    {
+     "id": 1545283,
+     "sagid": 71032,
+     "dokumentid": 1227876,
+     "bilagsnummer": "Spørgsmål 12",
+     "frigivelsesdato": "2026-09-09T00:00:00",
+     "opdateringsdato": "2026-09-09T15:53:16.7533333",
+     "rolleid": 4
+    },
+    {
+     "id": 1545284,
+     "sagid": 71032,
+     "dokumentid": 1227866,
+     "bilagsnummer": "Spørgsmål 14",
+     "frigivelsesdato": "2026-09-09T00:00:00",
+     "opdateringsdato": "2026-09-09T15:53:49.9466667",
+     "rolleid": 4
+    },
+    {
+     "id": 1545357,
+     "sagid": 71032,
+     "dokumentid": 1228148,
+     "bilagsnummer": "Spørgsmål 19",
+     "frigivelsesdato": "2026-09-10T00:00:00",
+     "opdateringsdato": "2026-09-10T09:41:32.8966667",
+     "rolleid": 4
+    },
+    {
+     "id": 1545859,
+     "sagid": 71032,
+     "dokumentid": 1224834,
+     "bilagsnummer": "Spørgsmål 9",
+     "frigivelsesdato": "2026-08-26T00:00:00",
+     "opdateringsdato": "2026-09-11T14:04:55.8366667",
+     "rolleid": 4
+    },
+    {
+     "id": 1545861,
+     "sagid": 71032,
+     "dokumentid": 1224845,
+     "bilagsnummer": "Spørgsmål 13",
+     "frigivelsesdato": "2026-08-26T00:00:00",
+     "opdateringsdato": "2026-09-11T14:07:06.9866667",
+     "rolleid": 4
+    },
+    {
+     "id": 1546055,
+     "sagid": 71032,
+     "dokumentid": 1228894,
+     "bilagsnummer": "Spørgsmål 7",
+     "frigivelsesdato": "2026-09-14T00:00:00",
+     "opdateringsdato": "2026-09-14T10:51:42.6666667",
+     "rolleid": 4
+    },
+    {
+     "id": 1546068,
+     "sagid": 71032,
+     "dokumentid": 1228901,
+     "bilagsnummer": "Spørgsmål 19",
+     "frigivelsesdato": "2026-09-14T00:00:00",
+     "opdateringsdato": "2026-09-14T12:09:32.0833333",
+     "rolleid": 4
+    },
+    {
+     "id": 1546069,
+     "sagid": 71032,
+     "dokumentid": 1228896,
+     "bilagsnummer": "Spørgsmål 2",
+     "frigivelsesdato": "2026-09-14T00:00:00",
+     "opdateringsdato": "2026-09-14T12:09:55.9966667",
+     "rolleid": 4
+    },
+    {
+     "id": 1546071,
+     "sagid": 71032,
+     "dokumentid": 1228892,
+     "bilagsnummer": "Spørgsmål 17",
+     "frigivelsesdato": "2026-09-14T00:00:00",
+     "opdateringsdato": "2026-09-14T12:10:23.29",
+     "rolleid": 4
+    },
+    {
+     "id": 1546073,
+     "sagid": 71032,
+     "dokumentid": 1228891,
+     "bilagsnummer": "Spørgsmål 18",
+     "frigivelsesdato": "2026-09-14T00:00:00",
+     "opdateringsdato": "2026-09-14T12:10:59.4633333",
+     "rolleid": 4
+    },
+    {
+     "id": 1546533,
+     "sagid": 71032,
+     "dokumentid": 1229380,
+     "bilagsnummer": "Spørgsmål 6",
+     "frigivelsesdato": "2026-09-16T00:00:00",
+     "opdateringsdato": "2026-09-16T09:43:16.4433333",
+     "rolleid": 4
+    },
+    {
+     "id": 1546672,
+     "sagid": 71032,
+     "dokumentid": 1229588,
+     "bilagsnummer": "Spørgsmål 20",
+     "frigivelsesdato": "2026-09-16T00:00:00",
+     "opdateringsdato": "2026-09-16T12:47:40.3566667",
+     "rolleid": 4
+    },
+    {
+     "id": 1546751,
+     "sagid": 71032,
+     "dokumentid": 1228893,
+     "bilagsnummer": "Spørgsmål 11",
+     "frigivelsesdato": "2026-09-14T00:00:00",
+     "opdateringsdato": "2026-09-16T15:50:57.5566667",
+     "rolleid": 4
+    },
+    {
+     "id": 1547128,
+     "sagid": 71032,
+     "dokumentid": 1230024,
+     "bilagsnummer": "Bilag 5",
+     "frigivelsesdato": "2026-09-18T00:00:00",
+     "opdateringsdato": "2026-09-18T08:31:57.48",
+     "rolleid": 4
+    },
+    {
+     "id": 1547412,
+     "sagid": 71032,
+     "dokumentid": 1230343,
+     "bilagsnummer": "Spørgsmål 21",
+     "frigivelsesdato": "2026-09-21T00:00:00",
+     "opdateringsdato": "2026-09-21T09:35:24.08",
+     "rolleid": 4
+    },
+    {
+     "id": 1547447,
+     "sagid": 71032,
+     "dokumentid": 1230381,
+     "bilagsnummer": "Spørgsmål 20",
+     "frigivelsesdato": "2026-09-21T00:00:00",
+     "opdateringsdato": "2026-09-21T11:43:53.4266667",
+     "rolleid": 4
+    },
+    {
+     "id": 1547461,
+     "sagid": 71032,
+     "dokumentid": 1230418,
+     "bilagsnummer": "Spørgsmål 22",
+     "frigivelsesdato": "2026-09-21T00:00:00",
+     "opdateringsdato": "2026-09-21T12:49:42.9433333",
+     "rolleid": 4
+    },
+    {
+     "id": 1547646,
+     "sagid": 71032,
+     "dokumentid": 1230611,
+     "bilagsnummer": "Spørgsmål 21",
+     "frigivelsesdato": "2026-09-22T00:00:00",
+     "opdateringsdato": "2026-09-22T10:43:14.3666667",
+     "rolleid": 4
+    },
+    {
+     "id": 1547648,
+     "sagid": 71032,
+     "dokumentid": 1230619,
+     "bilagsnummer": "Spørgsmål 22",
+     "frigivelsesdato": "2026-09-22T00:00:00",
+     "opdateringsdato": "2026-09-22T10:44:41.8666667",
+     "rolleid": 4
+    },
+    {
+     "id": 1547788,
+     "sagid": 71032,
+     "dokumentid": 1230408,
+     "bilagsnummer": "Bilag 6",
+     "frigivelsesdato": "2026-09-21T00:00:00",
+     "opdateringsdato": "2026-09-22T14:54:49.55",
+     "rolleid": 4
+    },
+    {
+     "id": 1547904,
+     "sagid": 71032,
+     "dokumentid": 1230932,
+     "bilagsnummer": "Bilag 7",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T09:22:31.17",
+     "rolleid": 4
+    },
+    {
+     "id": 1547917,
+     "sagid": 71032,
+     "dokumentid": 1230946,
+     "bilagsnummer": "Spørgsmål 23",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T10:08:30.0133333",
+     "rolleid": 4
+    },
+    {
+     "id": 1547944,
+     "sagid": 71032,
+     "dokumentid": 1230958,
+     "bilagsnummer": "Spørgsmål 33",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T10:38:37.36",
+     "rolleid": 4
+    },
+    {
+     "id": 1547945,
+     "sagid": 71032,
+     "dokumentid": 1230957,
+     "bilagsnummer": "Spørgsmål 32",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T10:38:55.98",
+     "rolleid": 4
+    },
+    {
+     "id": 1547950,
+     "sagid": 71032,
+     "dokumentid": 1230954,
+     "bilagsnummer": "Spørgsmål 29",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T10:39:36.51",
+     "rolleid": 4
+    },
+    {
+     "id": 1547952,
+     "sagid": 71032,
+     "dokumentid": 1230953,
+     "bilagsnummer": "Spørgsmål 28",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T10:39:58.13",
+     "rolleid": 4
+    },
+    {
+     "id": 1547953,
+     "sagid": 71032,
+     "dokumentid": 1230951,
+     "bilagsnummer": "Spørgsmål 27",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T10:39:59.0766667",
+     "rolleid": 4
+    },
+    {
+     "id": 1547956,
+     "sagid": 71032,
+     "dokumentid": 1230950,
+     "bilagsnummer": "Spørgsmål 26",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T10:40:46.5966667",
+     "rolleid": 4
+    },
+    {
+     "id": 1547958,
+     "sagid": 71032,
+     "dokumentid": 1230948,
+     "bilagsnummer": "Spørgsmål 25",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T10:40:47.6133333",
+     "rolleid": 4
+    },
+    {
+     "id": 1547959,
+     "sagid": 71032,
+     "dokumentid": 1230947,
+     "bilagsnummer": "Spørgsmål 24",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T10:41:02.8333333",
+     "rolleid": 4
+    },
+    {
+     "id": 1547990,
+     "sagid": 71032,
+     "dokumentid": 1230987,
+     "bilagsnummer": "Spørgsmål 34",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T11:13:30.15",
+     "rolleid": 4
+    },
+    {
+     "id": 1548104,
+     "sagid": 71032,
+     "dokumentid": 1231095,
+     "bilagsnummer": "Spørgsmål 35",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T15:48:58.9233333",
+     "rolleid": 4
+    },
+    {
+     "id": 1548105,
+     "sagid": 71032,
+     "dokumentid": 1231096,
+     "bilagsnummer": "Spørgsmål 36",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T15:50:45.8733333",
+     "rolleid": 4
+    },
+    {
+     "id": 1548106,
+     "sagid": 71032,
+     "dokumentid": 1231097,
+     "bilagsnummer": "Spørgsmål 37",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T15:51:41.2066667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548107,
+     "sagid": 71032,
+     "dokumentid": 1231098,
+     "bilagsnummer": "Spørgsmål 38",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T15:52:44.2766667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548108,
+     "sagid": 71032,
+     "dokumentid": 1231099,
+     "bilagsnummer": "Spørgsmål 39",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T15:53:34.21",
+     "rolleid": 4
+    },
+    {
+     "id": 1548109,
+     "sagid": 71032,
+     "dokumentid": 1231100,
+     "bilagsnummer": "Spørgsmål 40",
+     "frigivelsesdato": "2026-09-23T00:00:00",
+     "opdateringsdato": "2026-09-23T15:54:53.21",
+     "rolleid": 4
+    },
+    {
+     "id": 1548244,
+     "sagid": 71032,
+     "dokumentid": 1231228,
+     "bilagsnummer": "Bilag 8",
+     "frigivelsesdato": "2026-09-24T00:00:00",
+     "opdateringsdato": "2026-09-24T09:28:35.3066667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548260,
+     "sagid": 71032,
+     "dokumentid": 1231238,
+     "bilagsnummer": "Spørgsmål 41",
+     "frigivelsesdato": "2026-09-24T00:00:00",
+     "opdateringsdato": "2026-09-24T09:45:51.5866667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548291,
+     "sagid": 71032,
+     "dokumentid": 1231264,
+     "bilagsnummer": "Spørgsmål 42",
+     "frigivelsesdato": "2026-09-24T00:00:00",
+     "opdateringsdato": "2026-09-24T10:38:37.2766667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548484,
+     "sagid": 71032,
+     "dokumentid": 1231497,
+     "bilagsnummer": "Spørgsmål 43",
+     "frigivelsesdato": "2026-09-25T00:00:00",
+     "opdateringsdato": "2026-09-25T08:58:50.5933333",
+     "rolleid": 4
+    },
+    {
+     "id": 1548485,
+     "sagid": 71032,
+     "dokumentid": 1231498,
+     "bilagsnummer": "Spørgsmål 44",
+     "frigivelsesdato": "2026-09-25T00:00:00",
+     "opdateringsdato": "2026-09-25T09:00:25.66",
+     "rolleid": 4
+    },
+    {
+     "id": 1548597,
+     "sagid": 71032,
+     "dokumentid": 1231611,
+     "bilagsnummer": "",
+     "frigivelsesdato": "2026-09-25T00:00:00",
+     "opdateringsdato": "2026-09-25T13:46:11.53",
+     "rolleid": 3
+    },
+    {
+     "id": 1548604,
+     "sagid": 71032,
+     "dokumentid": 1231617,
+     "bilagsnummer": "Bilag 10",
+     "frigivelsesdato": "2026-09-25T00:00:00",
+     "opdateringsdato": "2026-09-25T13:54:17.5766667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548693,
+     "sagid": 71032,
+     "dokumentid": 1231236,
+     "bilagsnummer": "Bilag 9",
+     "frigivelsesdato": "2026-09-24T00:00:00",
+     "opdateringsdato": "2026-09-25T16:14:27.3",
+     "rolleid": 4
+    },
+    {
+     "id": 1548756,
+     "sagid": 71032,
+     "dokumentid": 1231785,
+     "bilagsnummer": "Spørgsmål 42",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:16:07.5466667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548757,
+     "sagid": 71032,
+     "dokumentid": 1231800,
+     "bilagsnummer": "Spørgsmål 23",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:16:28.4333333",
+     "rolleid": 4
+    },
+    {
+     "id": 1548758,
+     "sagid": 71032,
+     "dokumentid": 1231801,
+     "bilagsnummer": "Spørgsmål 25",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:16:52.37",
+     "rolleid": 4
+    },
+    {
+     "id": 1548759,
+     "sagid": 71032,
+     "dokumentid": 1231798,
+     "bilagsnummer": "Spørgsmål 26",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:17:12.2",
+     "rolleid": 4
+    },
+    {
+     "id": 1548760,
+     "sagid": 71032,
+     "dokumentid": 1231803,
+     "bilagsnummer": "Spørgsmål 28",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:17:30.2733333",
+     "rolleid": 4
+    },
+    {
+     "id": 1548762,
+     "sagid": 71032,
+     "dokumentid": 1231802,
+     "bilagsnummer": "Spørgsmål 29",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:18:29.3566667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548763,
+     "sagid": 71032,
+     "dokumentid": 1231804,
+     "bilagsnummer": "Spørgsmål 30",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:18:46.4366667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548764,
+     "sagid": 71032,
+     "dokumentid": 1231806,
+     "bilagsnummer": "Spørgsmål 32",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:19:16.6866667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548765,
+     "sagid": 71032,
+     "dokumentid": 1231805,
+     "bilagsnummer": "Spørgsmål 33",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:20:27.83",
+     "rolleid": 4
+    },
+    {
+     "id": 1548767,
+     "sagid": 71032,
+     "dokumentid": 1231807,
+     "bilagsnummer": "Spørgsmål 43",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:22:01.4",
+     "rolleid": 4
+    },
+    {
+     "id": 1548769,
+     "sagid": 71032,
+     "dokumentid": 1231808,
+     "bilagsnummer": "Spørgsmål 44",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:22:33.1633333",
+     "rolleid": 4
+    },
+    {
+     "id": 1548772,
+     "sagid": 71032,
+     "dokumentid": 1231809,
+     "bilagsnummer": "Spørgsmål 45",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:22:36.2366667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548778,
+     "sagid": 71032,
+     "dokumentid": 1231814,
+     "bilagsnummer": "Spørgsmål 31",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:34:58.03",
+     "rolleid": 4
+    },
+    {
+     "id": 1548784,
+     "sagid": 71032,
+     "dokumentid": 1231818,
+     "bilagsnummer": "Spørgsmål 35",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:39:56.1833333",
+     "rolleid": 4
+    },
+    {
+     "id": 1548785,
+     "sagid": 71032,
+     "dokumentid": 1231817,
+     "bilagsnummer": "Spørgsmål 36",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:40:16.7166667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548790,
+     "sagid": 71032,
+     "dokumentid": 1231826,
+     "bilagsnummer": "Spørgsmål 37",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:43:33.4833333",
+     "rolleid": 4
+    },
+    {
+     "id": 1548791,
+     "sagid": 71032,
+     "dokumentid": 1231827,
+     "bilagsnummer": "Spørgsmål 38",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:43:49.78",
+     "rolleid": 4
+    },
+    {
+     "id": 1548793,
+     "sagid": 71032,
+     "dokumentid": 1231825,
+     "bilagsnummer": "Spørgsmål 39",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:44:09.1966667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548796,
+     "sagid": 71032,
+     "dokumentid": 1231833,
+     "bilagsnummer": "Spørgsmål 40",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T10:52:06.97",
+     "rolleid": 4
+    },
+    {
+     "id": 1548841,
+     "sagid": 71032,
+     "dokumentid": 1231874,
+     "bilagsnummer": "Spørgsmål 41",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T12:39:31.0866667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548842,
+     "sagid": 71032,
+     "dokumentid": 1231871,
+     "bilagsnummer": "Spørgsmål 34",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T12:39:51.1066667",
+     "rolleid": 4
+    },
+    {
+     "id": 1548843,
+     "sagid": 71032,
+     "dokumentid": 1231872,
+     "bilagsnummer": "Spørgsmål 27",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T12:40:22.8133333",
+     "rolleid": 4
+    },
+    {
+     "id": 1548844,
+     "sagid": 71032,
+     "dokumentid": 1231873,
+     "bilagsnummer": "Spørgsmål 24",
+     "frigivelsesdato": "2026-09-28T00:00:00",
+     "opdateringsdato": "2026-09-28T12:40:37.6433333",
+     "rolleid": 4
+    }
+   ],
+   "SagDokument@odata.nextLink": "https://oda.ft.dk/api/Sag(71032)/SagDokument?$skip=100",
+   "id": 71032,
+   "typeid": 3,
+   "kategoriid": 13,
+   "statusid": 11,
+   "titel": "Forslag til lov om ændring af lov om elforsyning og lov om fremme af vedvarende energi. (Prioritering af kapacitet i elnettet og hensigtsmæssig tilslutning til elnettet m.v.).",
+   "titelkort": "Om prioritering af kapacitet i elnettet og hensigtsmæssig tilslutning til elnettet m.v.",
+   "offentlighedskode": "O",
+   "nummer": "L 23",
+   "nummerprefix": "L",
+   "nummernumerisk": "23",
+   "nummerpostfix": "",
+   "resume": "Lovforslaget, der bygger på den politiske forståelse om en akutplan for elnettet mellem regeringen (S, SF, M og RV) og V, DF, KF og EL, skal bidrage til en mere effektiv udnyttelse af kapaciteten i elnettet ved at indføre mulighed for at prioritere anmodninger om nettilslutning og fremme en mere hensigtsmæssig placering og tilslutning af elforbrug, elproduktion og energilagre.",
+   "afstemningskonklusion": "For stemte 89 (S, SF, V, DF, M, KF, EL, RV, ALT, Nadja Natalie Isaksen (UFG)) imod stemte 18 (LA, DD, BP, Cecilie Liv Hansen (UFG), Jacob Harris (UFG)) hverken for eller imod stemte 0. \nGrundet en fejl er der ikke registreret en stemme i Peter Juel-Jensens (V) navn.",
+   "periodeid": 167,
+   "afgørelsesresultatkode": null,
+   "baggrundsmateriale": null,
+   "opdateringsdato": "2026-10-08T07:58:58.203",
+   "statsbudgetsag": false,
+   "begrundelse": null,
+   "paragrafnummer": null,
+   "paragraf": null,
+   "afgørelsesdato": null,
+   "afgørelse": null,
+   "rådsmødedato": null,
+   "lovnummer": "866",
+   "lovnummerdato": "2026-10-07T00:00:00",
+   "retsinformationsurl": null,
+   "fremsatundersagid": null,
+   "deltundersagid": null
+  }
+ ],
+ "actors": {
+  "244": {
+   "id": 244,
+   "typeid": 5,
+   "gruppenavnkort": null,
+   "navn": "Magnus Heunicke",
+   "fornavn": "Magnus",
+   "efternavn": "Heunicke",
+   "biografi": "<member><partyShortname>S</partyShortname></member>",
+   "periodeid": null,
+   "opdateringsdato": "2026-10-20T19:13:51.797",
+   "startdato": null,
+   "slutdato": null
+  },
+  "21583": {
+   "id": 21583,
+   "typeid": 3,
+   "gruppenavnkort": "BUU",
+   "navn": "Børne-, Undervisnings- og Forskningsudvalget",
+   "fornavn": null,
+   "efternavn": null,
+   "biografi": null,
+   "periodeid": 168,
+   "opdateringsdato": "2026-10-21T10:22:40.93",
+   "startdato": "2026-10-06T00:00:00",
+   "slutdato": "2027-10-05T00:00:00"
+  },
+  "21448": {
+   "id": 21448,
+   "typeid": 2,
+   "gruppenavnkort": "undervisningsminister",
+   "navn": "undervisningsministeren",
+   "fornavn": null,
+   "efternavn": null,
+   "biografi": null,
+   "periodeid": null,
+   "opdateringsdato": "2026-10-20T19:13:51.797",
+   "startdato": "2026-06-03T00:00:00",
+   "slutdato": null
+  },
+  "45": {
+   "id": 45,
+   "typeid": 2,
+   "gruppenavnkort": "justitsminister",
+   "navn": "justitsministeren",
+   "fornavn": null,
+   "efternavn": null,
+   "biografi": null,
+   "periodeid": null,
+   "opdateringsdato": "2026-10-20T19:17:23.197",
+   "startdato": "2022-12-15T00:00:00",
+   "slutdato": "2026-06-03T00:00:00"
+  },
+  "46": {
+   "id": 46,
+   "typeid": 1,
+   "gruppenavnkort": null,
+   "navn": "Justitsministeriet",
+   "fornavn": null,
+   "efternavn": null,
+   "biografi": null,
+   "periodeid": null,
+   "opdateringsdato": "2026-06-03T09:55:59.627",
+   "startdato": "1953-09-30T00:00:00",
+   "slutdato": null
+  },
+  "21577": {
+   "id": 21577,
+   "typeid": 3,
+   "gruppenavnkort": "GRU",
+   "navn": "Grønlandsudvalget",
+   "fornavn": null,
+   "efternavn": null,
+   "biografi": null,
+   "periodeid": 168,
+   "opdateringsdato": "2026-10-20T19:20:25.347",
+   "startdato": "2026-10-06T00:00:00",
+   "slutdato": "2027-10-05T00:00:00"
+  },
+  "21449": {
+   "id": 21449,
+   "typeid": 1,
+   "gruppenavnkort": null,
+   "navn": "Undervisningsministeriet",
+   "fornavn": null,
+   "efternavn": null,
+   "biografi": null,
+   "periodeid": null,
+   "opdateringsdato": "2026-06-03T13:04:49.683",
+   "startdato": "2026-06-03T00:00:00",
+   "slutdato": null
+  },
+  "21369": {
+   "id": 21369,
+   "typeid": 5,
+   "gruppenavnkort": null,
+   "navn": "Emilie Schytte",
+   "fornavn": "Emilie",
+   "efternavn": "Schytte",
+   "biografi": "<member><partyShortname>UFG</partyShortname></member>",
+   "periodeid": null,
+   "opdateringsdato": "2026-10-20T19:20:17.643",
+   "startdato": null,
+   "slutdato": null
+  },
+  "12": {
+   "id": 12,
+   "typeid": 5,
+   "gruppenavnkort": null,
+   "navn": "Nicolai Wammen",
+   "fornavn": "Nicolai",
+   "efternavn": "Wammen",
+   "biografi": "<member><partyShortname>S</partyShortname></member>",
+   "periodeid": null,
+   "opdateringsdato": "2026-10-20T19:12:57.277",
+   "startdato": null,
+   "slutdato": null
+  },
+  "21580": {
+   "id": 21580,
+   "typeid": 3,
+   "gruppenavnkort": "REU",
+   "navn": "Retsudvalget",
+   "fornavn": null,
+   "efternavn": null,
+   "biografi": null,
+   "periodeid": 168,
+   "opdateringsdato": "2026-10-20T19:20:20.937",
+   "startdato": "2026-10-06T00:00:00",
+   "slutdato": "2027-10-05T00:00:00"
+  },
+  "18744": {
+   "odata.metadata": "https://oda.ft.dk/api/$metadata#Akt%C3%B8r/@Element",
+   "id": 18744,
+   "typeid": 1,
+   "gruppenavnkort": null,
+   "navn": "Klima-, Energi- og Forsyningsministeriet",
+   "fornavn": null,
+   "efternavn": null,
+   "biografi": null,
+   "periodeid": null,
+   "opdateringsdato": "2026-06-03T10:01:51.247",
+   "startdato": "2019-06-27T00:00:00",
+   "slutdato": null
+  },
+  "21469": {
+   "odata.metadata": "https://oda.ft.dk/api/$metadata#Akt%C3%B8r/@Element",
+   "id": 21469,
+   "typeid": 3,
+   "gruppenavnkort": "KEF",
+   "navn": "Klima-, Energi- og Forsyningsudvalget",
+   "fornavn": null,
+   "efternavn": null,
+   "biografi": null,
+   "periodeid": 167,
+   "opdateringsdato": "2026-10-20T19:20:24.767",
+   "startdato": "2026-03-24T00:00:00",
+   "slutdato": "2026-10-06T00:00:00"
+  },
+  "18745": {
+   "odata.metadata": "https://oda.ft.dk/api/$metadata#Akt%C3%B8r/@Element",
+   "id": 18745,
+   "typeid": 2,
+   "gruppenavnkort": "klima-, energi- og forsyningsminister",
+   "navn": "klima-, energi- og forsyningsministeren",
+   "fornavn": null,
+   "efternavn": null,
+   "biografi": null,
+   "periodeid": null,
+   "opdateringsdato": "2026-10-20T19:20:01.833",
+   "startdato": "2022-12-15T00:00:00",
+   "slutdato": "2026-06-03T00:00:00"
+  },
+  "18725": {
+   "odata.metadata": "https://oda.ft.dk/api/$metadata#Akt%C3%B8r/@Element",
+   "id": 18725,
+   "typeid": 5,
+   "gruppenavnkort": null,
+   "navn": "Samira Nawa",
+   "fornavn": "Samira",
+   "efternavn": "Nawa",
+   "biografi": "<member><partyShortname>RV</partyShortname></member>",
+   "periodeid": null,
+   "opdateringsdato": "2026-10-20T19:19:10.84",
+   "startdato": null,
+   "slutdato": null
+  }
+ },
+ "statuses": [
+  {
+   "id": 1,
+   "status": "Afsluttet",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 2,
+   "status": "Afgivet",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 3,
+   "status": "Forkastet",
+   "opdateringsdato": "2014-10-09T15:32:11.19"
+  },
+  {
+   "id": 4,
+   "status": "Tilbagetaget",
+   "opdateringsdato": "2015-05-29T13:06:13.967"
+  },
+  {
+   "id": 5,
+   "status": "Forhandlet",
+   "opdateringsdato": "2015-04-08T11:15:51.36"
+  },
+  {
+   "id": 6,
+   "status": "Anmeldt",
+   "opdateringsdato": "2015-06-02T11:45:13.49"
+  },
+  {
+   "id": 7,
+   "status": "Fremmet",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 8,
+   "status": "Igangværende",
+   "opdateringsdato": "2015-05-21T11:51:26.38"
+  },
+  {
+   "id": 9,
+   "status": "Udgået",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 10,
+   "status": "Vedtaget",
+   "opdateringsdato": "2014-09-19T03:37:07.523"
+  },
+  {
+   "id": 11,
+   "status": "Stadfæstet",
+   "opdateringsdato": "2015-07-07T11:28:30.69"
+  },
+  {
+   "id": 12,
+   "status": "Ingen forhandling",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 13,
+   "status": "Bortfaldet",
+   "opdateringsdato": "2015-05-28T11:35:17.56"
+  },
+  {
+   "id": 14,
+   "status": "Foretaget",
+   "opdateringsdato": "2015-05-20T09:23:20.077"
+  },
+  {
+   "id": 15,
+   "status": "Foreløbig",
+   "opdateringsdato": "2015-06-26T10:51:50.327"
+  },
+  {
+   "id": 16,
+   "status": "2. beh./Forkastet",
+   "opdateringsdato": "2014-10-08T14:26:54.447"
+  },
+  {
+   "id": 17,
+   "status": "Vedtaget",
+   "opdateringsdato": "2015-03-26T15:20:44.617"
+  },
+  {
+   "id": 18,
+   "status": "Afholdt",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 19,
+   "status": "Betænkning afgivet",
+   "opdateringsdato": "2015-03-20T14:42:18.197"
+  },
+  {
+   "id": 20,
+   "status": "Besvaret, endeligt",
+   "opdateringsdato": "2015-04-24T10:40:06.503"
+  },
+  {
+   "id": 21,
+   "status": "Tiltrådt",
+   "opdateringsdato": "2015-07-15T13:11:55.147"
+  },
+  {
+   "id": 22,
+   "status": "Anmeldt",
+   "opdateringsdato": "2015-07-09T14:29:01.24"
+  },
+  {
+   "id": 23,
+   "status": "Ikke afgjort",
+   "opdateringsdato": "2014-12-03T12:05:12.773"
+  },
+  {
+   "id": 24,
+   "status": "Fremsat",
+   "opdateringsdato": "2015-01-27T14:09:02.033"
+  },
+  {
+   "id": 25,
+   "status": "Fremsat",
+   "opdateringsdato": "2015-05-04T14:15:29.703"
+  },
+  {
+   "id": 26,
+   "status": "Fremsat/henvist til udvalg",
+   "opdateringsdato": "2015-01-30T12:14:37.76"
+  },
+  {
+   "id": 27,
+   "status": "Taget til efterretning",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 28,
+   "status": "1. beh./Henvist til udvalg",
+   "opdateringsdato": "2015-05-27T13:48:24.47"
+  },
+  {
+   "id": 29,
+   "status": "2. beh. afbrudt/henvist til udvalg",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 30,
+   "status": "Henstående",
+   "opdateringsdato": "2014-10-23T16:40:49.44"
+  },
+  {
+   "id": 31,
+   "status": "Tillægsbetænkning afgivet",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 32,
+   "status": "2. beh./Direkte til 3. beh.",
+   "opdateringsdato": "2015-05-07T15:15:25.85"
+  },
+  {
+   "id": 33,
+   "status": "2. beh./Henvist til udvalg",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 34,
+   "status": "Eneste behandling/Vedtaget",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 35,
+   "status": "Forkastet",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 36,
+   "status": "Behandlet",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 37,
+   "status": "3. beh./Forkastet",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 38,
+   "status": "1. (eneste) behandling/Forkastet",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 39,
+   "status": "2. beh/Vedtaget",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 40,
+   "status": "Delt",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 41,
+   "status": "3.beh./Vedtaget",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 42,
+   "status": "Beretning afgivet",
+   "opdateringsdato": "2015-05-29T09:43:44.253"
+  },
+  {
+   "id": 43,
+   "status": "Aflyst",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 44,
+   "status": "Stedfortræder godkendt",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 45,
+   "status": "Afventer opfølgning",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 46,
+   "status": "Ophør anmeldt",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 47,
+   "status": "Afsluttet",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 48,
+   "status": "2. beh./Bortfaldet",
+   "opdateringsdato": "2014-08-11T14:17:04.757"
+  },
+  {
+   "id": 49,
+   "status": "Skal forhandles",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 50,
+   "status": "Besvaret, foreløbigt",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 51,
+   "status": "Godkendt orlov",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 52,
+   "status": "Anmeldt",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 53,
+   "status": "3. beh. afbrudt/henvist til udvalg",
+   "opdateringsdato": "2014-12-17T21:34:25.707"
+  },
+  {
+   "id": 54,
+   "status": "Igangværende",
+   "opdateringsdato": "2015-04-28T11:00:08.443"
+  },
+  {
+   "id": 55,
+   "status": "1. beh./Direkte til 2. beh.",
+   "opdateringsdato": "2015-01-16T08:36:17.71"
+  },
+  {
+   "id": 56,
+   "status": "Forhandling afsluttet",
+   "opdateringsdato": "2024-11-27T14:08:13.017"
+  },
+  {
+   "id": 57,
+   "status": "Vedtaget",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 58,
+   "status": "2. beh. afbrudt/udsat",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 59,
+   "status": "1. (eneste) behandling/Vedtaget",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 60,
+   "status": "1. beh. afbrudt/udsat",
+   "opdateringsdato": "2014-06-24T15:14:55.25"
+  },
+  {
+   "id": 61,
+   "status": "1. beh. afbrudt/henvist til udvalg",
+   "opdateringsdato": "2024-11-27T14:05:43.597"
+  },
+  {
+   "id": 62,
+   "status": "Spørgsmål afvist",
+   "opdateringsdato": "2017-02-14T09:47:36"
+  },
+  {
+   "id": 63,
+   "status": "Foreløbig",
+   "opdateringsdato": "2018-07-03T16:31:49.877"
+  },
+  {
+   "id": 64,
+   "status": "Forkastet",
+   "opdateringsdato": "2018-07-03T16:31:49.88"
+  },
+  {
+   "id": 65,
+   "status": "Afvist",
+   "opdateringsdato": "2019-09-05T09:58:02.34"
+  },
+  {
+   "id": 66,
+   "status": "3. beh. afbrudt/udsat",
+   "opdateringsdato": "2021-03-01T16:41:24.267"
+  },
+  {
+   "id": 67,
+   "status": "Optaget",
+   "opdateringsdato": "2024-11-27T14:06:45.393"
+  },
+  {
+   "id": 68,
+   "status": "Forhandlet i udvalg/delegation",
+   "opdateringsdato": "2024-11-27T14:14:11.687"
+  }
+ ],
+ "periods": [
+  {
+   "id": 102,
+   "startdato": "1958-10-07T00:00:00",
+   "slutdato": "1959-10-06T00:00:00",
+   "type": "samling",
+   "kode": "19581",
+   "titel": "1958-59",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 103,
+   "startdato": "1959-10-06T00:00:00",
+   "slutdato": "1960-10-04T00:00:00",
+   "type": "samling",
+   "kode": "19591",
+   "titel": "1959-60",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 104,
+   "startdato": "1960-10-04T00:00:00",
+   "slutdato": "1960-11-15T00:00:00",
+   "type": "samling",
+   "kode": "19601",
+   "titel": "1960-61 (1. samling)",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 105,
+   "startdato": "1960-11-15T00:00:00",
+   "slutdato": "1961-10-03T00:00:00",
+   "type": "samling",
+   "kode": "19602",
+   "titel": "1960-61 (2. samling)",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 106,
+   "startdato": "1961-10-03T00:00:00",
+   "slutdato": "1962-10-02T00:00:00",
+   "type": "samling",
+   "kode": "19611",
+   "titel": "1961-62",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 107,
+   "startdato": "1962-01-01T00:00:00",
+   "slutdato": "1962-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19621",
+   "titel": "1962",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 108,
+   "startdato": "1964-09-22T00:00:00",
+   "slutdato": "1964-10-06T00:00:00",
+   "type": "samling",
+   "kode": "19632",
+   "titel": "1963-64 (2. samling)",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 109,
+   "startdato": "1965-01-01T00:00:00",
+   "slutdato": "1965-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19651",
+   "titel": "1965",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 110,
+   "startdato": "1968-01-01T00:00:00",
+   "slutdato": "1968-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19681",
+   "titel": "1968",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 111,
+   "startdato": "1969-01-01T00:00:00",
+   "slutdato": "1969-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19691",
+   "titel": "1969",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 112,
+   "startdato": "1970-01-01T00:00:00",
+   "slutdato": "1970-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19701",
+   "titel": "1970",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 113,
+   "startdato": "1971-01-01T00:00:00",
+   "slutdato": "1971-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19711",
+   "titel": "1971",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 114,
+   "startdato": "1972-01-01T00:00:00",
+   "slutdato": "1972-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19721",
+   "titel": "1972",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 115,
+   "startdato": "1973-01-01T00:00:00",
+   "slutdato": "1973-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19731",
+   "titel": "1973",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 116,
+   "startdato": "1974-01-01T00:00:00",
+   "slutdato": "1974-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19741",
+   "titel": "1974",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 117,
+   "startdato": "2015-01-01T12:00:00",
+   "slutdato": "2015-12-31T12:00:00",
+   "type": "finans",
+   "kode": "20151",
+   "titel": "2015",
+   "opdateringsdato": "2015-01-05T12:12:32"
+  },
+  {
+   "id": 118,
+   "startdato": "1975-01-01T00:00:00",
+   "slutdato": "1975-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19751",
+   "titel": "1975",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 119,
+   "startdato": "1976-01-01T00:00:00",
+   "slutdato": "1976-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19761",
+   "titel": "1976",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 120,
+   "startdato": "1977-01-01T00:00:00",
+   "slutdato": "1977-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19771",
+   "titel": "1977",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 121,
+   "startdato": "1978-01-01T00:00:00",
+   "slutdato": "1978-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19781",
+   "titel": "1978",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 122,
+   "startdato": "1979-01-01T00:00:00",
+   "slutdato": "1979-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19791",
+   "titel": "1979",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 123,
+   "startdato": "1980-01-01T00:00:00",
+   "slutdato": "1980-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19801",
+   "titel": "1980",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 124,
+   "startdato": "1981-01-01T00:00:00",
+   "slutdato": "1981-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19811",
+   "titel": "1981",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 125,
+   "startdato": "1982-01-01T00:00:00",
+   "slutdato": "1982-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19821",
+   "titel": "1982",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 126,
+   "startdato": "1983-01-01T00:00:00",
+   "slutdato": "1983-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19831",
+   "titel": "1983",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 127,
+   "startdato": "1984-01-01T00:00:00",
+   "slutdato": "1984-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19841",
+   "titel": "1984",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 128,
+   "startdato": "1985-01-01T00:00:00",
+   "slutdato": "1985-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19851",
+   "titel": "1985",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 129,
+   "startdato": "1986-01-01T00:00:00",
+   "slutdato": "1986-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19861",
+   "titel": "1986",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 130,
+   "startdato": "1987-01-01T00:00:00",
+   "slutdato": "1987-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19871",
+   "titel": "1987",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 131,
+   "startdato": "1988-01-01T00:00:00",
+   "slutdato": "1988-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19881",
+   "titel": "1988",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 132,
+   "startdato": "1990-01-01T00:00:00",
+   "slutdato": "1990-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19901",
+   "titel": "1990",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 133,
+   "startdato": "1992-01-01T00:00:00",
+   "slutdato": "1992-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19921",
+   "titel": "1992",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 134,
+   "startdato": "1993-01-01T00:00:00",
+   "slutdato": "1993-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19931",
+   "titel": "1993",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 135,
+   "startdato": "1997-01-01T00:00:00",
+   "slutdato": "1997-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19971",
+   "titel": "1997",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 136,
+   "startdato": "1999-01-01T00:00:00",
+   "slutdato": "1999-12-31T00:00:00",
+   "type": "finans",
+   "kode": "19991",
+   "titel": "1999",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 137,
+   "startdato": "2001-01-01T00:00:00",
+   "slutdato": "2001-12-31T00:00:00",
+   "type": "finans",
+   "kode": "20011",
+   "titel": "2001",
+   "opdateringsdato": "2015-02-16T13:18:09"
+  },
+  {
+   "id": 138,
+   "startdato": "2015-06-18T12:00:00",
+   "slutdato": "2015-10-06T12:00:00",
+   "type": "samling",
+   "kode": "20142",
+   "titel": "2014-15 (2. samling)",
+   "opdateringsdato": "2015-06-22T09:33:32.707"
+  },
+  {
+   "id": 139,
+   "startdato": "2015-10-06T12:00:00",
+   "slutdato": "2016-10-04T12:00:00",
+   "type": "samling",
+   "kode": "20151",
+   "titel": "2015-16",
+   "opdateringsdato": "2015-09-02T10:09:41"
+  },
+  {
+   "id": 142,
+   "startdato": "2016-01-01T12:00:00",
+   "slutdato": "2016-12-31T12:00:00",
+   "type": "finans",
+   "kode": "20161",
+   "titel": "2016",
+   "opdateringsdato": "2016-07-07T09:49:44"
+  },
+  {
+   "id": 144,
+   "startdato": "2016-10-04T12:00:00",
+   "slutdato": "2017-10-03T12:00:00",
+   "type": "samling",
+   "kode": "20161",
+   "titel": "2016-17",
+   "opdateringsdato": "2016-09-08T17:08:33.347"
+  },
+  {
+   "id": 145,
+   "startdato": "2017-01-01T12:00:00",
+   "slutdato": "2017-12-31T12:00:00",
+   "type": "finans",
+   "kode": "20171",
+   "titel": "2017",
+   "opdateringsdato": "2017-08-28T09:50:56.547"
+  },
+  {
+   "id": 146,
+   "startdato": "2017-10-03T12:00:00",
+   "slutdato": "2018-10-02T12:00:00",
+   "type": "samling",
+   "kode": "20171",
+   "titel": "2017-18",
+   "opdateringsdato": "2017-08-28T09:50:56.55"
+  },
+  {
+   "id": 147,
+   "startdato": "2018-01-01T12:00:00",
+   "slutdato": "2018-12-31T12:00:00",
+   "type": "finans",
+   "kode": "20181",
+   "titel": "2018",
+   "opdateringsdato": "2018-01-02T16:19:50.903"
+  },
+  {
+   "id": 148,
+   "startdato": "2018-10-02T12:00:00",
+   "slutdato": "2019-06-05T12:00:00",
+   "type": "samling",
+   "kode": "20181",
+   "titel": "2018-19 (1. samling)",
+   "opdateringsdato": "2018-09-11T10:35:03.807"
+  },
+  {
+   "id": 149,
+   "startdato": "2019-01-01T12:00:00",
+   "slutdato": "2019-12-31T12:00:00",
+   "type": "finans",
+   "kode": "20191",
+   "titel": "2019",
+   "opdateringsdato": "2018-12-21T13:41:09.85"
+  },
+  {
+   "id": 150,
+   "startdato": "2019-06-05T12:00:00",
+   "slutdato": "2019-10-01T12:00:00",
+   "type": "samling",
+   "kode": "20182",
+   "titel": "2018-19 (2. samling)",
+   "opdateringsdato": "2019-05-24T15:19:06.997"
+  },
+  {
+   "id": 151,
+   "startdato": "2019-10-01T12:00:00",
+   "slutdato": "2020-10-06T12:00:00",
+   "type": "samling",
+   "kode": "20191",
+   "titel": "2019-20",
+   "opdateringsdato": "2019-09-09T12:29:48.397"
+  },
+  {
+   "id": 152,
+   "startdato": "2020-01-01T12:00:00",
+   "slutdato": "2020-12-31T12:00:00",
+   "type": "finans",
+   "kode": "20201",
+   "titel": "2020",
+   "opdateringsdato": "2019-12-18T16:48:20.937"
+  },
+  {
+   "id": 153,
+   "startdato": "2020-10-06T12:00:00",
+   "slutdato": "2021-10-05T12:00:00",
+   "type": "samling",
+   "kode": "20201",
+   "titel": "2020-21",
+   "opdateringsdato": "2020-10-01T16:07:28.523"
+  },
+  {
+   "id": 154,
+   "startdato": "2021-01-01T12:00:00",
+   "slutdato": "2021-12-31T12:00:00",
+   "type": "finans",
+   "kode": "20211",
+   "titel": "2021",
+   "opdateringsdato": "2021-03-01T13:00:08.27"
+  },
+  {
+   "id": 155,
+   "startdato": "2021-10-05T12:00:00",
+   "slutdato": "2022-10-04T12:00:00",
+   "type": "samling",
+   "kode": "20211",
+   "titel": "2021-22",
+   "opdateringsdato": "2021-09-08T13:15:06.07"
+  },
+  {
+   "id": 156,
+   "startdato": "2022-01-01T12:00:00",
+   "slutdato": "2022-12-31T12:00:00",
+   "type": "finans",
+   "kode": "20221",
+   "titel": "2022",
+   "opdateringsdato": "2022-02-24T10:59:15.99"
+  },
+  {
+   "id": 157,
+   "startdato": "2022-10-04T12:00:00",
+   "slutdato": "2022-11-01T12:00:00",
+   "type": "samling",
+   "kode": "20221",
+   "titel": "2022-23 (1. samling)",
+   "opdateringsdato": "2022-06-02T12:25:13.65"
+  },
+  {
+   "id": 158,
+   "startdato": "2022-11-01T12:00:00",
+   "slutdato": "2023-10-03T12:00:00",
+   "type": "samling",
+   "kode": "20222",
+   "titel": "2022-23 (2. samling)",
+   "opdateringsdato": "2022-10-27T09:36:38.19"
+  },
+  {
+   "id": 159,
+   "startdato": "2023-01-01T12:00:00",
+   "slutdato": "2023-12-31T12:00:00",
+   "type": "finans",
+   "kode": "20231",
+   "titel": "2023",
+   "opdateringsdato": "2023-05-31T16:53:23.733"
+  },
+  {
+   "id": 160,
+   "startdato": "2023-10-03T12:00:00",
+   "slutdato": "2024-10-01T12:00:00",
+   "type": "samling",
+   "kode": "20231",
+   "titel": "2023-24",
+   "opdateringsdato": "2023-09-19T14:24:27.66"
+  },
+  {
+   "id": 161,
+   "startdato": "2024-01-01T12:00:00",
+   "slutdato": "2024-12-31T12:00:00",
+   "type": "finans",
+   "kode": "20241",
+   "titel": "2024",
+   "opdateringsdato": "2024-01-18T10:22:33.48"
+  },
+  {
+   "id": 163,
+   "startdato": "2024-10-01T12:00:00",
+   "slutdato": "2025-10-07T12:00:00",
+   "type": "samling",
+   "kode": "20241",
+   "titel": "2024-25",
+   "opdateringsdato": "2024-09-30T13:08:47.483"
+  },
+  {
+   "id": 164,
+   "startdato": "2025-01-01T12:00:00",
+   "slutdato": "2025-12-31T12:00:00",
+   "type": "finans",
+   "kode": "20251",
+   "titel": "2025",
+   "opdateringsdato": "2025-04-07T14:08:12.413"
+  },
+  {
+   "id": 165,
+   "startdato": "2025-10-07T12:00:00",
+   "slutdato": "2026-03-24T12:00:00",
+   "type": "samling",
+   "kode": "20251",
+   "titel": "2025-26 (1. samling)",
+   "opdateringsdato": "2026-03-24T14:07:07.593"
+  },
+  {
+   "id": 166,
+   "startdato": "2026-01-01T12:00:00",
+   "slutdato": "2026-12-31T12:00:00",
+   "type": "finans",
+   "kode": "20261",
+   "titel": "2026",
+   "opdateringsdato": "2025-11-12T14:53:37.943"
+  },
+  {
+   "id": 167,
+   "startdato": "2026-03-24T12:00:00",
+   "slutdato": "2026-10-06T12:00:00",
+   "type": "samling",
+   "kode": "20252",
+   "titel": "2025-26 (2. samling)",
+   "opdateringsdato": "2026-03-02T14:27:01.387"
+  },
+  {
+   "id": 168,
+   "startdato": "2026-10-06T12:00:00",
+   "slutdato": "2027-10-05T12:00:00",
+   "type": "samling",
+   "kode": "20261",
+   "titel": "2026-27",
+   "opdateringsdato": "2026-09-18T13:13:27.71"
+  }
+ ]
+}
