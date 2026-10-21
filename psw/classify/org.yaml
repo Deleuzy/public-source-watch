@@ -1,0 +1,48 @@
+# Organisational tree: ministry -> area.
+# Ministries are the "Ministerområde" actors that Folketingets Åbne Data (ODA) links to each case;
+# the id is the ODA actor id and the source is that actor's ODA record.
+# Areas group ODA's own subject keywords (emneord). The grouping is ours; the keywords are ODA's,
+# and each area's source is the ODA query for its first keyword.
+
+ministries:
+  - id: oda-46
+    oda_id: 46
+    name: Justitsministeriet
+    source: https://oda.ft.dk/api/Akt%C3%B8r(46)?$format=json
+    areas:
+      - id: justice-police-crime
+        name: Politi og strafferet
+        emneord: [politi og retsvæsen, strafferet og kriminalitet, politi og våben, kriminalforsorg og afsoning]
+        source: https://oda.ft.dk/api/Emneord?$format=json&$filter=emneord%20eq%20'politi%20og%20retsv%C3%A6sen'
+      - id: justice-courts-civil
+        name: Domstole og civilret
+        emneord: [retspleje og domstole, civilret]
+        emneord_prefix: [retspleje]
+        source: https://oda.ft.dk/api/Emneord?$format=json&$filter=emneord%20eq%20'retspleje%20og%20domstole'
+      - id: justice-realm
+        name: Grønland og Færøerne
+        emneord_prefix: [grønland, færøerne]
+        source: https://oda.ft.dk/api/Emneord?$format=json&$filter=startswith(emneord,'gr%C3%B8nland')
+      - id: justice-constitution
+        name: Forfatning, forvaltning og menneskerettigheder
+        emneord: [ministeransvar, forvaltningsret og persondata, international ret og menneskerettigheder]
+        emneord_prefix: [forfatningsforhold]
+        source: https://oda.ft.dk/api/Emneord?$format=json&$filter=emneord%20eq%20'ministeransvar'
+
+  - id: oda-17076
+    oda_id: 17076
+    name: Udlændinge- og Integrationsministeriet
+    source: https://oda.ft.dk/api/Akt%C3%B8r(17076)?$format=json
+    areas:
+      - id: immigration-residence-asylum
+        name: Ophold, asyl og udvisning
+        emneord: [ophold og visum, flygtninge og asylansøgere, udvisning og repatriering]
+        source: https://oda.ft.dk/api/Emneord?$format=json&$filter=emneord%20eq%20'ophold%20og%20visum'
+      - id: immigration-integration
+        name: Integration
+        emneord: [indvandrere og integration]
+        source: https://oda.ft.dk/api/Emneord?$format=json&$filter=emneord%20eq%20'indvandrere%20og%20integration'
+      - id: immigration-citizenship
+        name: Indfødsret og statsborgerskab
+        emneord: [indfødsrets og naturalisering, statsborgerskab]
+        source: https://oda.ft.dk/api/Emneord?$format=json&$filter=emneord%20eq%20'statsborgerskab'

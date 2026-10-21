@@ -1,0 +1,324 @@
+[
+ {
+  "id": 105498,
+  "kind": "bill",
+  "number": "L 22",
+  "samling": "2025/2",
+  "title": "Forslag til lov om ændring af straffeloven (Tildækningsforbud på uddannelsessteder).",
+  "short_title": "Om tildækningsforbud på uddannelsessteder.",
+  "status": "Bortfaldet",
+  "updated": "2026-10-06T10:46:46.837",
+  "ministry": {
+   "id": 46,
+   "name": "Justitsministeriet",
+   "typeid": 1,
+   "party": null
+  },
+  "minister_title": {
+   "id": 45,
+   "name": "justitsministeren",
+   "typeid": 2,
+   "party": null
+  },
+  "askers": [],
+  "co_askers": [],
+  "to": null,
+  "answered_by": null,
+  "proposers": [
+   {
+    "id": 113,
+    "name": "Jens Henrik Thulesen Dahl",
+    "typeid": 5,
+    "party": "DD"
+   },
+   {
+    "id": 119,
+    "name": "Dennis Flydtkjær",
+    "typeid": 5,
+    "party": "DD"
+   },
+   {
+    "id": 182,
+    "name": "Inger Støjberg",
+    "typeid": 5,
+    "party": "DD"
+   },
+   {
+    "id": 17629,
+    "name": "Mads Fuglede",
+    "typeid": 5,
+    "party": "DD"
+   },
+   {
+    "id": 20373,
+    "name": "Susie Jessen",
+    "typeid": 5,
+    "party": "DD"
+   }
+  ],
+  "committees": [
+   "Retsudvalget"
+  ],
+  "topics": [
+   "retspleje 87",
+   "strafferet og kriminalitet"
+  ],
+  "document_ids": [
+   1221713
+  ],
+  "law_number": null,
+  "law_date": null
+ },
+ {
+  "id": 106046,
+  "kind": "bill",
+  "number": "L 25",
+  "samling": "2026/1",
+  "title": "Forslag til lov om ændring af retsplejelov for Grønland og kriminallov for Grønland.  (Ajourføring af retsplejelov for Grønland m.v.).",
+  "short_title": "Om ajourføring af retsplejelov for Grønland m.v.",
+  "status": "Fremsat",
+  "updated": "2026-10-16T17:09:58.733",
+  "ministry": {
+   "id": 46,
+   "name": "Justitsministeriet",
+   "typeid": 1,
+   "party": null
+  },
+  "minister_title": {
+   "id": 45,
+   "name": "justitsministeren",
+   "typeid": 2,
+   "party": null
+  },
+  "askers": [],
+  "co_askers": [],
+  "to": null,
+  "answered_by": null,
+  "proposers": [
+   {
+    "id": 12,
+    "name": "Nicolai Wammen",
+    "typeid": 5,
+    "party": "S"
+   }
+  ],
+  "committees": [
+   "Grønlandsudvalget"
+  ],
+  "topics": [
+   "grønland 11",
+   "grønland 12",
+   "politi og retsvæsen"
+  ],
+  "document_ids": [
+   1234331,
+   1234337,
+   1234591,
+   1235917
+  ],
+  "law_number": null,
+  "law_date": null
+ },
+ {
+  "id": 105902,
+  "kind": "question",
+  "number": "S 377",
+  "samling": "2025/2",
+  "title": "Er ministeren enig eller uenig med spørgeren i, at hovedpersoner, ægtefæller og børn under ingen omstændigheder skal kunne få permanent opholdstilladelse eller dansk indfødsret, før hver en krone udbetalt i repatrieringsstøtte er tilbagebetalt?",
+  "short_title": "Om ikke at få permanent opholdstilladelse eller dansk indfødsret, før udbetalt repatrieringsstøtte er tilbagebetalt.",
+  "status": "Besvaret, endeligt",
+  "updated": "2026-09-24T08:35:21.903",
+  "ministry": {
+   "id": 17076,
+   "name": "Udlændinge- og Integrationsministeriet",
+   "typeid": 1,
+   "party": null
+  },
+  "minister_title": {
+   "id": 17075,
+   "name": "udlændinge- og integrationsministeren",
+   "typeid": 2,
+   "party": null
+  },
+  "askers": [
+   {
+    "id": 21354,
+    "name": "Nadja Natalie Isaksen",
+    "typeid": 5,
+    "party": "UFG"
+   }
+  ],
+  "co_askers": [],
+  "to": {
+   "id": 220,
+   "name": "Morten Bødskov",
+   "typeid": 5,
+   "party": "S"
+  },
+  "answered_by": null,
+  "proposers": [],
+  "committees": [
+   "Udlændinge- og Integrationsudvalget"
+  ],
+  "topics": [
+   "ophold og visum"
+  ],
+  "document_ids": [
+   1229324,
+   1231075
+  ],
+  "law_number": null,
+  "law_date": null
+ },
+ {
+  "id": 105732,
+  "kind": "bill",
+  "number": "L 17 A",
+  "samling": "2025/2",
+  "title": "Forslag til lov om ændring af udlændingeloven, lov om midlertidig opholdstilladelse til personer, der er fordrevet fra Ukraine, hjemrejseloven, lov om fuldbyrdelse af straf m.v., repatrieringsloven og straffeloven. (Skærpelse af regler om udvisning ved ubetinget fængselsstraf af mindst 1 års varighed for visse former for alvorlig kriminalitet og indførelse af elektronisk kontrol med fodlænke for visse udlændinge m.v.).",
+  "short_title": "Om skærpelse af regler om udvisning ved ubetinget fængselsstraf af mindst 1 års varighed for visse former for alvorlig kriminalitet m.v.",
+  "status": "Stadfæstet",
+  "updated": "2026-10-01T15:18:58.29",
+  "ministry": {
+   "id": 17076,
+   "name": "Udlændinge- og Integrationsministeriet",
+   "typeid": 1,
+   "party": null
+  },
+  "minister_title": {
+   "id": 17075,
+   "name": "udlændinge- og integrationsministeren",
+   "typeid": 2,
+   "party": null
+  },
+  "askers": [],
+  "co_askers": [],
+  "to": null,
+  "answered_by": null,
+  "proposers": [
+   {
+    "id": 220,
+    "name": "Morten Bødskov",
+    "typeid": 5,
+    "party": "S"
+   }
+  ],
+  "committees": [
+   "Udlændinge- og Integrationsudvalget"
+  ],
+  "topics": [
+   "indvandrere og integration"
+  ],
+  "document_ids": [
+   1217688,
+   1220736,
+   1220938,
+   1220939,
+   1220940,
+   1220941,
+   1220943,
+   1221062,
+   1221919,
+   1221922,
+   1221923,
+   1222093,
+   1222245,
+   1222251,
+   1222254,
+   1222353,
+   1222590,
+   1222593,
+   1222595,
+   1222596,
+   1222597,
+   1222607,
+   1222613,
+   1222784,
+   1223874,
+   1223877,
+   1223878,
+   1223883,
+   1223889,
+   1223894,
+   1223916,
+   1223941,
+   1223969,
+   1224006,
+   1224009,
+   1224020,
+   1224061,
+   1224063,
+   1224084,
+   1224093,
+   1224097,
+   1224099,
+   1224106,
+   1224117,
+   1224450,
+   1224619,
+   1225173,
+   1225191,
+   1225403,
+   1225428,
+   1225483,
+   1225552,
+   1225756,
+   1225757,
+   1226256,
+   1226880
+  ],
+  "law_number": "766",
+  "law_date": "2026-09-08"
+ },
+ {
+  "id": 105869,
+  "kind": "question",
+  "number": "S 353",
+  "samling": "2025/2",
+  "title": "Hvad vil regeringen gøre for at rette op på den nuværende og åbenlyse uretfærdige situation, hvor skattemyndighederne systematisk betaler borgerne en lavere rente, når skattemyndighederne skylder borgerne penge, end den rente, skattemyndighederne opkræver borgere, som skylder skattemyndighederne penge?",
+  "short_title": "Om at skattemyndighederne betaler en lavere rente, når skattemyndighederne skylder borgerne penge end omvendt.",
+  "status": "Besvaret, endeligt",
+  "updated": "2026-09-22T10:16:21.71",
+  "ministry": {
+   "id": 21450,
+   "name": "Skatte- og Vækstministeriet",
+   "typeid": 1,
+   "party": null
+  },
+  "minister_title": {
+   "id": 21451,
+   "name": "skatte- og vækstministeren",
+   "typeid": 2,
+   "party": null
+  },
+  "askers": [
+   {
+    "id": 21369,
+    "name": "Emilie Schytte",
+    "typeid": 5,
+    "party": "UFG"
+   }
+  ],
+  "co_askers": [],
+  "to": {
+   "id": 57,
+   "name": "Jakob Engel-Schmidt",
+   "typeid": 5,
+   "party": "M"
+  },
+  "answered_by": null,
+  "proposers": [],
+  "committees": [
+   "Skatteudvalget"
+  ],
+  "topics": [
+   "punktafgifter"
+  ],
+  "document_ids": [
+   1228636,
+   1230573
+  ],
+  "law_number": null,
+  "law_date": null
+ }
+]

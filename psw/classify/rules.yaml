@@ -1,0 +1,31 @@
+# Explicit, ordered rules. No LLM.
+# Ministry rules set the organisational node; area rules set the area inside it.
+# A case gets its ministry and its area independently, and either can stay "unclassified".
+
+ministry_rules:
+  - id: M1
+    reason: ODA lists Justitsministeriet (actor 46) as the case's Ministerområde.
+    ministry_id: 46
+    assign: oda-46
+  - id: M2
+    reason: ODA lists Udlændinge- og Integrationsministeriet (actor 17076) as the case's Ministerområde.
+    ministry_id: 17076
+    assign: oda-17076
+
+# Area rules are tried in order; the first match wins.
+area_rules:
+  - id: A1
+    reason: The case carries one of the area's ODA subject keywords (emneord), within the assigned ministry.
+    by: emneord
+  - id: A2
+    reason: >
+      Law reference in the title, used only when no ODA keyword matched an area. A bill amending the
+      Udlændingeloven belongs to residence and asylum.
+    title_contains: [udlændingeloven]
+    ministry: oda-17076
+    assign: immigration-residence-asylum
+  - id: A3
+    reason: Law reference in the title, used only when no ODA keyword matched an area. A bill amending the Straffeloven belongs to police and criminal law.
+    title_contains: [straffeloven]
+    ministry: oda-46
+    assign: justice-police-crime

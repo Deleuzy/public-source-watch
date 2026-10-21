@@ -80,9 +80,45 @@ Findings from the run (both are in `reports/report-run1.md`):
    *kollektiv transport* and *strafferet og kriminalitet*. Two other pairs are bridged by two people
    each (politi og våben / strafferet og kriminalitet; retspleje og domstole / udvisning og repatriering).
 
+## Classification layer
+
+`psw/classify/` places each case in a small organisational tree so a journalist can see where it sits:
+**ministry → area**. Run it after a watch run:
+
+```bash
+.venv/bin/python -m psw.classify    # reads the latest run from data/snapshots.sqlite
+```
+
+- `org.yaml`: two ministries, taken from the "Ministerområde" actor ODA links to each case
+  (Justitsministeriet, ODA actor 46; Udlændinge- og Integrationsministeriet, actor 17076), each with
+  areas built from ODA's own subject keywords. Every node has an `oda.ft.dk` source URL; a test checks it.
+- `rules.yaml`: explicit rules, each with an id and a reason. M1–M2 set the ministry from the ODA actor
+  id. A1 sets the area from ODA keywords; A2–A3 fall back to a law named in the title
+  (udlændingeloven, straffeloven). No LLM.
+- Output: `data/classifications/run-N.jsonl` (one placement per case, with the rule that made it)
+  and `reports/classification-runN.md` (counts per ministry and per area, and the unclassified
+  buckets, which are always shown).
+
+Result on run 2 (258 cases):
+
+| | Cases |
+|---|---:|
+| Udlændinge- og Integrationsministeriet | 27 |
+| Justitsministeriet | 24 |
+| Unclassified: outside the two ministries | 207 |
+| Unclassified: ministry known, no area rule matched | 0 |
+
+Areas: Ophold, asyl og udvisning 18 · Politi og strafferet 16 · Integration 6 · Domstole og civilret 6
+· Indfødsret og statsborgerskab 3 · Forfatning, forvaltning og menneskerettigheder 2.
+All 51 area placements came from rule A1 (ODA keywords); A2 and A3 did not fire on this run.
+
+Known weak spot: areas are tried in order, so Greenland bills that ODA also tags
+*politi og retsvæsen* land in *Politi og strafferet*, and *Grønland og Færøerne* got 0 cases.
+Whether that is right is an editorial choice, not a technical one.
+
 ## Tests
 
-28 tests, all offline (no network, no browser). `tests/fixtures/oda_sample.json` holds three real
+37 tests, all offline (no network, no browser). `tests/fixtures/oda_sample.json` holds three real
 ODA records (a question with an addressee, a question with no asker, and bill L 23 that became
 law as lov nr. 866), with actor records trimmed to the party shortname.
 
@@ -94,6 +130,9 @@ law as lov nr. 866), with actor records trimmed to the party shortname.
 - `test_browser.py`: cached Retsinformation page does not start a browser; parsing the "Ressort" text
 - `test_report_and_pipeline.py`: all report sections; an end-to-end second run that reports an
   added case and a changed status
+- `test_classifier.py`: every org node has a source URL, ministry from the ODA actor, area from
+  keywords and from a law reference, a case with no matching rule lands in "unclassified", report counts
+  (fixture: five real cases from run 2 in `tests/fixtures/sample_cases.json`)
 
 CI (`.github/workflows/ci.yml`) installs `requirements.txt` and runs `pytest` on Python 3.12.
 
@@ -112,7 +151,7 @@ answers normally and is read with Playwright because its law text is rendered by
   logic is tested with fixtures only.
 - **UFG is a bucket**, not a party; the report says so, but the party flows still mix people.
 - **Rule-based only.** No LLM is used, so there are no leftovers to handle. Topics are the
-  keywords (`emneord`) that ODA assigns; this code does not classify them.
+  keywords (`emneord`) that ODA assigns; the classification layer only groups them, for two ministries.
 - **Duplicates are kept.** Two questions with the same title (S 130 and S 131) are two cases.
 - **Playwright reads six pages.** Only bills with a numeric law number are looked up, and their
   titles and ministries are reported but not added to the graph.
